@@ -1,0 +1,2 @@
+# MACHINE-LEARNING-BASED-FRAUD-DETECTION-SYSTEM-FOR-IDENTIFYING-SUSPICIOUS-BANKING-TRANSACTIONS
+Financial institutions process millions of banking transactions every day, making it difficult to identify fraudulent activities through manual monitoring. Traditional rule-based fraud detection systems often fail to recognize evolving fraud patterns, resulting in financial losses and increased security risks. Banks require intelligent systems
